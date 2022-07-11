@@ -5,3 +5,6 @@ Device maintainers: Supreme
 
 ==== 11 July, 2022 ====
 - Inital OTA for RMX2061 (pixelAurora 6.2)
+- Upstreamed Kernel to 21
+- Improved overall smoothness
+- Update brightness configs from aosp

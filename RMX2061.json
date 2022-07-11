@@ -1,0 +1,28 @@
+{
+        "response": [
+                {
+                        "maintainer": "Supreme",
+                        "oem": "Realme",
+                        "device": "Realme 6 Pro",
+                        "filename": "pixelAurora-12L-OTA-SQ3A.220705.003.A1-RMX2061-v6.2-OFFICIAL-pixel-2022071118.zip",
+                        "download": "https://www.googleapis.com/drive/v3/files/1Tc9NiUOhUHeBZg3lA4caGiykWOMean8r?alt=media&key=AIzaSyAFAOOhW-LoQcX93R5kUJstKD7GsLiqIXM",
+                        "timestamp": 1657539634,
+                        "md5": "4d53cba9c7d95278774a4821d7c9cb2d",
+                        "sha256": "815733b7d7e08249d2ba622ace0e08f7e7197dcc4289bb24d124f529fcc00d2a",
+                        "size": 1976122625,
+                        "version": "6.2",
+                        "buildtype": "Monthly",
+                        "forum": "",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "https://t.me/Supreme_007",
+                        "dt": "https://github.com/Aurora12L-Devices/device_realme_RMX2061",
+                        "common-dt": "https://github.com/Aurora12L-Devices/device_realme_sm7125-common",
+                        "kernel": "https://github.com/Aurora12L-Devices/kernel_realme_sm7125"
+                }
+        ]
+}
