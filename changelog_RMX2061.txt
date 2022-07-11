@@ -1,0 +1,7 @@
+Highlights & Device Specific Changes:
+Build type: Initial
+Device: RMX2061
+Device maintainers: Supreme 
+
+==== 11 July, 2022 ====
+- Inital OTA for RMX2061 (pixelAurora 6.2)
