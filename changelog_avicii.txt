@@ -5,3 +5,12 @@ Device maintainers: Supreme x Drogon
 
 ==== 11 July, 2022 ====
 - Inital OTA for avicii (pixelAurora 6.2)
+- Tune Zram for performance
+- Enabled zram writeback
+- Updated zram size
+- Update dimensions again
+- Set zram sized for 50% 
+- Some sepolices stuff
+- Sync props with Gcam
+- Improved boot time
+- Updated Blobs

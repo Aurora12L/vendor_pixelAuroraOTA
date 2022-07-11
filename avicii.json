@@ -1,0 +1,28 @@
+{
+    "response": [
+            {
+                    "maintainer": "Drogon x Supreme",
+                    "oem": "Onelus",
+                    "device": "Oneplus Nord",
+                    "filename": "pixelAurora-12L-OTA-SQ3A.220705.003.A1-avicii-v6.2-OFFICIAL-pixel-2022071119.zip",
+                    "download": "https://www.googleapis.com/drive/v3/files/1cD8Vp23oDhFqB3AzaiWWdujxShcTZKX2?alt=media&key=AIzaSyAFAOOhW-LoQcX93R5kUJstKD7GsLiqIXM",
+                    "timestamp": 1657561278,
+                    "md5": "98c53acbd904ea09662aafda689c1a08",
+                    "sha256": "370827572c08c468f3cb5faebdaa5b9afaa161a72fb32a79f30b47e7fc9453a4",
+                    "size": 2310244783,
+                    "version": "6.2",
+                    "buildtype": "Monthly",
+                    "forum": "",
+                    "gapps": "",
+                    "firmware": "",
+                    "modem": "",
+                    "bootloader": "",
+                    "recovery": "",
+                    "paypal": "",
+                    "telegram": "https://t.me/Supreme_007",
+                    "dt": "https://github.com/Aurora12L-Devices/device_oneplus_avicii",
+                    "common-dt": "https://github.com/Aurora12L-Devices/device_oneplus_sm7250-common",
+                    "kernel": "https://github.com/Aurora12L-Devices/kernel_oneplus_avicii"
+            }
+    ]
+}
